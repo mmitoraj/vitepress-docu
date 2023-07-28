@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/vitepress-docu/',
   title: "Test docu with VitePress",
   description: "Vitepress docu",
   themeConfig: {
